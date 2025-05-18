@@ -1,7 +1,7 @@
 package Concrete_Subject;
 
-import Intefaces_observer.Observer;
-import Intefaces_observer.Subject;
+import Interfaces_observer.Observer;
+import Interfaces_observer.Subject;
 
 import java.util.ArrayList;
 

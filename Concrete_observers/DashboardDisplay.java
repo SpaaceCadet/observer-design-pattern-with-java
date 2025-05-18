@@ -1,7 +1,7 @@
 package Concrete_observers;
 
 import Concrete_Subject.Weatherstation;
-import Intefaces_observer.Observer;
+import Interfaces_observer.Observer;
 
 import java.util.Date;
 
